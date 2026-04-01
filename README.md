@@ -8,6 +8,11 @@ A Java program that calculates loan payments, total interest, and the effect of 
 - Supports extra payment scenarios
 - Includes user input validation
 
+## Technologies
+- Java
+- Eclipse
+- Git & Github
+
 ## Files
 - `Loan.java` - contains the loan calculation logic
 - `LoanDemo.java` - runs the program and handles user input
@@ -25,10 +30,16 @@ A Java program that calculates loan payments, total interest, and the effect of 
 
 ## Concepts Used
 - Java
-- Object-oriented programming
+- Object-oriented programming (OOP)
 - Classes and methods
 - Loops and conditionals
 - Input validation
 
+## What I learned
+- How to structure Java programs using multiple classes
+- How loan amortization calculations work
+- How to validate user input effectively
+- How to use Git and Github for version control
+  
 ## Notes
 This project was originally built in Eclipse and cleaned up for GitHub as part of my coding portfolio.
